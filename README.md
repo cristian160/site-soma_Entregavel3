@@ -31,3 +31,13 @@ Rotas disponíveis:
 
 A aplicação rejeita valores que não sejam números
 e divisão por zero.
+
+
+## Print das operações
+
+<img width="1101" height="931" alt="{BD3C2EF7-455F-4031-BB97-4324050FA37E}" src="https://github.com/user-attachments/assets/c5e89c4d-2cc9-4b81-bea4-a56a3aad7bcb" />
+
+
+
+
+
